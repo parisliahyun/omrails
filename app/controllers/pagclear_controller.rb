@@ -1,0 +1,2 @@
+class PagclearController < ApplicationController
+end
