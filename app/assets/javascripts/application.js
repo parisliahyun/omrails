@@ -12,5 +12,6 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.masonry.pkgd.js
 //= require bootstrap
 //= require_tree .
