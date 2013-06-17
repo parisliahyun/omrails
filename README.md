@@ -1,6 +1,6 @@
-# One Month Rails
+# Paris App
 
-This is the sample application for 
-[*One Month Rails: Teach Yourself to Code*](http://onemonthrails.com)
+This is the working application for 
+[*Paris App*](http://twitter.com/parislia)
 
-by [Mattan Griffel](http://mattangriffel.com)
+by [Paris Lia Hyun](http://twitter.com/parislia)
