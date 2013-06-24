@@ -1,7 +1,8 @@
 class PagesController < ApplicationController
+
+end
   def home
-  end
+end
 
   def action
-  end
 end
